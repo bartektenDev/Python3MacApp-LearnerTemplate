@@ -8,7 +8,7 @@ using only python3.
 To run this app:
 ```
 git clone ["THIS REPO URL"](https://github.com/bartektenDev/Python3MacApp-LearnerTemplate)
-cd \ LearnerTemplate/
+cd Python3MacApp-LearnerTemplate
 python3 gui.py
 ```
 
