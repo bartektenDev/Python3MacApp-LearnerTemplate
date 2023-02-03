@@ -6,12 +6,11 @@ using only python3.
 
 
 To run this app:
-git clone "THIS REPO URL"
-
+```
+git clone ["THIS REPO URL"](https://github.com/bartektenDev/Python3MacApp-LearnerTemplate)
 cd \ LearnerTemplate/
-
 python3 gui.py
-
+```
 
 Enjoy!
 
