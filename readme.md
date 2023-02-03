@@ -6,9 +6,12 @@ using only python3.
 
 
 To run this app:
-git clone "THIS REPO URL"\n
-cd \ LearnerTemplate/\n
+git clone "THIS REPO URL"
+
+cd \ LearnerTemplate/
+
 python3 gui.py
+
 
 Enjoy!
 
